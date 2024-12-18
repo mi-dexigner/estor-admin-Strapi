@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_structure_data_markups",
+  "info": {
+    "displayName": "Structure Data Markup",
+    "icon": "code",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "json"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}

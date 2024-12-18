@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_seos",
+  "info": {
+    "name": "Seo",
+    "icon": "allergies",
+    "displayName": "Seo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "TitleTag": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "StructureDataMarkup": {
+      "displayName": "Structure Data Markup",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.structure-data-markup"
+    }
+  }
+}
